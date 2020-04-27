@@ -1,0 +1,498 @@
+-------------------------------------------
+1.
+Kitap Ismi : Körlük
+Yazar :   Jose Saramago
+Yayinevi : KIRMIZI KEDİ YAYINEVİ
+-------------------------------------------
+2.
+Kitap Ismi : Şeker Portakalı (Ciltsiz)
+Yazar :   Jose Mauro De Vasconcelos
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+3.
+Kitap Ismi : İçimizdeki Şeytan
+Yazar :   Sabahattin Ali
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+4.
+Kitap Ismi : Hayvan Çiftliği (Ciltsiz)
+Yazar :   George Orwell
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+5.
+Kitap Ismi : 1984
+Yazar :   George Orwell
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+6.
+Kitap Ismi : Simyacı (Ciltsiz)
+Yazar :   Paulo Coelho
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+7.
+Kitap Ismi : Momo
+Yazar :   Michael Ende
+Yayinevi : PEGASUS YAYINLARI
+-------------------------------------------
+8.
+Kitap Ismi : Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Yazar :  Prof. Dr. İlber Ortaylı
+Yayinevi : KRONİK KİTAP
+-------------------------------------------
+9.
+Kitap Ismi : Yabancı
+Yazar :   Albert Camus
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+10.
+Kitap Ismi : Kırmızı Pazartesi
+Yazar :   Gabriel Garcia Marquez
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+11.
+Kitap Ismi : Suç ve Ceza (Ciltsiz)
+Yazar :   Fyodor Mihayloviç Dostoyevski
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+12.
+Kitap Ismi : Sineklerin Tanrısı (karton kapak)
+Yazar :   William Golding
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+13.
+Kitap Ismi : Allah’ım Ben Geldim
+Yazar :   Hatice Kübra Tongar
+Yayinevi : HAYY KİTAP
+-------------------------------------------
+14.
+Kitap Ismi : Veronika Ölmek İstiyor
+Yazar :   Paulo Coelho
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+15.
+Kitap Ismi : Kürk Mantolu Madonna
+Yazar :   Sabahattin Ali
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+16.
+Kitap Ismi : Cesur Yeni Dünya
+Yazar :   Aldous Huxley
+Yayinevi : İTHAKİ YAYINLARI
+-------------------------------------------
+17.
+Kitap Ismi : Tüfek, Mikrop ve Çelik 
+Yazar :   Jared Diamond
+Yayinevi : PEGASUS YAYINLARI
+-------------------------------------------
+18.
+Kitap Ismi : Kuyucaklı Yusuf
+Yazar :   Sabahattin Ali
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+19.
+Kitap Ismi : Kral Şakir 8 / Macera Adası (Ciltli)
+Yazar :   Varol Yaşaroğlu
+Yayinevi : EKSİK PARÇA ÇOCUK
+-------------------------------------------
+20.
+Kitap Ismi : Fahrenheit 451
+Yazar :   Ray Bradbury
+Yayinevi : İTHAKİ YAYINLARI
+-------------------------------------------
+21.
+Kitap Ismi : Satranç (Karton Kapak)
+Yazar :   Stefan Zweig
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+22.
+Kitap Ismi : Sırça Köşk
+Yazar :   Sabahattin Ali
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+23.
+Kitap Ismi : Veba
+Yazar :   Albert Camus
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+24.
+Kitap Ismi : Güneşi Uyandıralım
+Yazar :   Jose Mauro De Vasconcelos
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+25.
+Kitap Ismi : Fabrika Ayarı
+Yazar :   Hayati İnanç
+Yayinevi : PROFİL KİTAP
+-------------------------------------------
+26.
+Kitap Ismi : Beyaz Zambaklar Ülkesinde  (Atatürk 'ün askerlere tavsiye ettiği kitap)
+Yazar :   Bekir Develi
+Yayinevi : KARBON KİTAPLAR
+-------------------------------------------
+27.
+Kitap Ismi : Bilinmeyen Bir Kadının Mektubu (Karton Kapak)
+Yazar :   Grigory Petrov
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+28.
+Kitap Ismi : Aylak Adam
+Yazar :   Stefan Zweig
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+29.
+Kitap Ismi : Ay Işığı Sokağı
+Yazar :   Yusuf Atılgan
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+30.
+Kitap Ismi : İki Şehrin Hikayesi
+Yazar :   Stefan Zweig
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+31.
+Kitap Ismi : Delifişek
+Yazar :   Charles Dickens
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+32.
+Kitap Ismi : Ben, Kirke
+Yazar :   Jose Mauro De Vasconcelos
+Yayinevi : İTHAKİ YAYINLARI
+-------------------------------------------
+33.
+Kitap Ismi : Kumarbaz (Karton Kapak)
+Yazar :   Madeline Miller
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+34.
+Kitap Ismi : Beyaz Gemi
+Yazar :   Fyodor Mihayloviç Dostoyevski
+Yayinevi : ÖTÜKEN NEŞRİYAT
+-------------------------------------------
+35.
+Kitap Ismi : Küçük Prens
+Yazar :   Cengiz Aytmatov
+Yayinevi : CAN ÇOCUK YAYINLARI
+-------------------------------------------
+36.
+Kitap Ismi : Bir Çöküşün Öyküsü
+Yazar :   Antoine De Saint Exupery
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+37.
+Kitap Ismi : Yeraltından Notlar (Karton Kapak)
+Yazar :   Stefan Zweig
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+38.
+Kitap Ismi : Korku
+Yazar :   Fyodor Mihayloviç Dostoyevski
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+39.
+Kitap Ismi : Uzun Hikaye
+Yazar :   Stefan Zweig
+Yayinevi : DERGAH YAYINLARI
+-------------------------------------------
+40.
+Kitap Ismi : Yeşilin Kızı Anne
+Yazar :   Mustafa Kutlu
+Yayinevi : SALTOKUR
+-------------------------------------------
+41.
+Kitap Ismi : Puslu Kıtalar Atlası
+Yazar :   İhsan Oktay Anar
+Yayinevi : İLETİŞİM YAYINLARI
+-------------------------------------------
+42.
+Kitap Ismi : Olağanüstü Bir Gece
+Yazar :   Stefan Zweig
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+43.
+Kitap Ismi : Küçük Sahabiler Seti (4 Kitap)
+Yazar :   Özkan Öze
+Yayinevi : UĞURBÖCEĞİ YAYINLARI
+-------------------------------------------
+44.
+Kitap Ismi : Görmek
+Yazar :   Jose Saramago
+Yayinevi : KIRMIZI KEDİ YAYINEVİ
+-------------------------------------------
+45.
+Kitap Ismi : Huzursuzluk
+Yazar :   Zülfü Livaneli
+Yayinevi : DOĞAN KİTAP
+-------------------------------------------
+46.
+Kitap Ismi : Keloğlan Oruç Peşinde
+Yazar :   Merve Gülcemal
+Yayinevi : CEZVE ÇOCUK
+-------------------------------------------
+47.
+Kitap Ismi : Yüzyıllık Yalnızlık (Ciltsiz)
+Yazar :   Gabriel Garcia Marquez
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+48.
+Kitap Ismi : İnce Memed 1
+Yazar :   Yaşar Kemal
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+49.
+Kitap Ismi : Uğultulu Tepeler
+Yazar :   Emily Bronte
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+50.
+Kitap Ismi : Siddhartha (Ciltsiz)
+Yazar :   Hermann Hesse
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+51.
+Kitap Ismi : Değirmen
+Yazar :   Sabahattin Ali
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+52.
+Kitap Ismi : Camdaki Kız
+Yazar :  Dr. Gülseren Budayıcıoğlu
+Yayinevi : DOĞAN KİTAP
+-------------------------------------------
+53.
+Kitap Ismi : Amok Koşucusu
+Yazar :   Stefan Zweig
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+54.
+Kitap Ismi : İnsancıklar
+Yazar :   Fyodor Mihayloviç Dostoyevski
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+55.
+Kitap Ismi : İrade Terbiyesi
+Yazar :   Jules Payot
+Yayinevi : EDİZ YAYINEVİ
+-------------------------------------------
+56.
+Kitap Ismi : Bir İdam Mahkumunun Son Günü
+Yazar :   Victor Hugo
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+57.
+Kitap Ismi : Çizgili Pijamalı Çocuk
+Yazar :   John Boyne
+Yayinevi : TUDEM YAYINEVİ
+-------------------------------------------
+58.
+Kitap Ismi : Ermiş
+Yazar :   Halil Cibran
+Yayinevi : KARBON KİTAPLAR
+-------------------------------------------
+59.
+Kitap Ismi : İçimdeki Müzik 
+Yazar :   Sharon M. Draper
+Yayinevi : TİMAŞ GENÇ
+-------------------------------------------
+60.
+Kitap Ismi : Sabahattin Ali Seti (3 Kitap)
+Yazar :   Sabahattin Ali
+Yayinevi : KARBON KİTAPLAR
+-------------------------------------------
+61.
+Kitap Ismi : Ay'ı Kim Çaldı?
+Yazar :   Helen Stratton Would
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+62.
+Kitap Ismi : Bir İdam Mahkumunun Son Günü (Cep Boy)
+Yazar :   Victor Hugo
+Yayinevi : KARBON KİTAPLAR
+-------------------------------------------
+63.
+Kitap Ismi : Dönüşüm
+Yazar :   Franz Kafka
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+64.
+Kitap Ismi : Tutunamayanlar / Bütün Eserleri 1
+Yazar :   Oğuz Atay
+Yayinevi : İLETİŞİM YAYINLARI
+-------------------------------------------
+65.
+Kitap Ismi : Kardeşimin Hikayesi (Karton Kapak)
+Yazar :   Zülfü Livaneli
+Yayinevi : DOĞAN KİTAP
+-------------------------------------------
+66.
+Kitap Ismi : Beş Şehir
+Yazar :   Ahmet Hamdi Tanpınar
+Yayinevi : DERGAH YAYINLARI
+-------------------------------------------
+67.
+Kitap Ismi : Othello (Karton Kapak)
+Yazar :   William Shakespeare
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+68.
+Kitap Ismi : Lyon’da Düğün
+Yazar :   Stefan Zweig
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+69.
+Kitap Ismi : İnsan Nedir?
+Yazar :   Mark Twain
+Yayinevi : DEDALUS KİTAP
+-------------------------------------------
+70.
+Kitap Ismi : Abartma Tozu
+Yazar :   Şermin Yaşar
+Yayinevi : TAZE KİTAP
+-------------------------------------------
+71.
+Kitap Ismi : Gazap Üzümleri
+Yazar :   John Steinbeck
+Yayinevi : SEL YAYINCILIK
+-------------------------------------------
+72.
+Kitap Ismi : On Küçük Zenci (Tam Metin)
+Yazar :   Agatha Christie
+Yayinevi : ALTIN KİTAPLAR
+-------------------------------------------
+73.
+Kitap Ismi : Dönüşüm (Karton Kapak)
+Yazar :   Franz Kafka
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+74.
+Kitap Ismi : Bir Kadının Yaşamından Yirmi Dört Saat
+Yazar :   Stefan Zweig
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+75.
+Kitap Ismi : Allah’ı Arayan Çocuk
+Yazar :   Hatice Kübra Tongar
+Yayinevi : HAYY KİTAP
+-------------------------------------------
+76.
+Kitap Ismi : Mavi Kuş
+Yazar :   Mustafa Kutlu
+Yayinevi : DERGAH YAYINLARI
+-------------------------------------------
+77.
+Kitap Ismi : İnsanın Anlam Arayışı
+Yazar :   Viktor Emil Frankl
+Yayinevi : OKUYAN US YAYIN
+-------------------------------------------
+78.
+Kitap Ismi : Bir İdam Mahkumunun Son Günü
+Yazar :   Victor Hugo
+Yayinevi : KARBON KİTAPLAR
+-------------------------------------------
+79.
+Kitap Ismi : Bırak ve Rahatla
+Yazar :  Pedagog Adem Güneş
+Yayinevi : TİMAŞ YAYINLARI
+-------------------------------------------
+80.
+Kitap Ismi : Nar Ağacı
+Yazar :  Prof. Dr. Nazan Bekiroğlu
+Yayinevi : TİMAŞ YAYINLARI
+-------------------------------------------
+81.
+Kitap Ismi : Pal Sokağı Çocukları
+Yazar :   Ferenc Molnar
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+82.
+Kitap Ismi : Toprak Ana
+Yazar :   Cengiz Aytmatov
+Yayinevi : ÖTÜKEN NEŞRİYAT
+-------------------------------------------
+83.
+Kitap Ismi : Denemeler / Montaigne (Ciltsiz)
+Yazar :   Michel de Montaigne
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+84.
+Kitap Ismi : Aşkımız Eski Bir Roman
+Yazar :   Ahmet Ümit
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+85.
+Kitap Ismi : İrade Terbiyesi
+Yazar :   Jules Payot
+Yayinevi : FLİPPER YAYINLARI
+-------------------------------------------
+86.
+Kitap Ismi : Mecburiyet
+Yazar :   Stefan Zweig
+Yayinevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+-------------------------------------------
+87.
+Kitap Ismi : Bunu Herkes Bilir & Tarihte Yanlış Sorulara Doğru Cevaplar
+Yazar :   Emrah Safa Gürkan
+Yayinevi : KRONİK KİTAP
+-------------------------------------------
+88.
+Kitap Ismi : Harry Potter ve Felsefe Taşı
+Yazar :   J. K. Rowling
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+89.
+Kitap Ismi : Küçük Sahabiler Seti 2 (4 kitap)
+Yazar :   Özkan Öze
+Yayinevi : UĞURBÖCEĞİ YAYINLARI
+-------------------------------------------
+90.
+Kitap Ismi : İnce Memed 2
+Yazar :   Yaşar Kemal
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+91.
+Kitap Ismi : Gülün Adı (Ciltsiz)
+Yazar :   Umberto Eco
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+92.
+Kitap Ismi : Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman
+Yazar :   Jostein Gaarder
+Yayinevi : PAN YAYINCILIK
+-------------------------------------------
+93.
+Kitap Ismi : Benim Hüzünlü Orospularım
+Yazar :   Gabriel Garcia Marquez
+Yayinevi : CAN YAYINLARI
+-------------------------------------------
+94.
+Kitap Ismi : Yeni Dünya
+Yazar :   Sabahattin Ali
+Yayinevi : YAPI KREDİ YAYINLARI
+-------------------------------------------
+95.
+Kitap Ismi : Muhayyel Dergisi Sayı:24 Nisan 2020
+Yazar :   Antoine De Saint Exupery
+Yayinevi : MUHAYYEL DERGİ
+-------------------------------------------
+96.
+Kitap Ismi : The Little Prince
+Yazar :   Murat Ağırel
+Yayinevi : KARBON KİTAPLAR
+-------------------------------------------
+97.
+Kitap Ismi : Sarmal
+Yazar :   Özkan Öze
+Yayinevi : KIRMIZI KEDİ YAYINEVİ
+-------------------------------------------
+98.
+Kitap Ismi : Peygamber Hikayeleri Okul Öncesi (10 Kitap Set)
+Yazar :   Lev N. Tolstoy
+Yayinevi : DİYANET İŞLERİ BAŞKANLIĞI
+-------------------------------------------
+99.
+Kitap Ismi : İtiraflarım
+Yazar :   İsmail Adıgüzel
+Yayinevi : KARBON KİTAPLAR
+-------------------------------------------
+100.
+Kitap Ismi : 2020 KPSS Tarihin Pusulası Tamamı Çözümlü Soru Bankası 
